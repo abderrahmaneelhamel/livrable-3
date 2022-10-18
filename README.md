@@ -6,6 +6,7 @@ Les Noms:
     Abderrahmane Aboussoror,
     Abderrahmane Elhamel,
     Aziz Harkati
+    
 le lien de Zoning & Wireframe : 
 https://www.figma.com/file/tlXxPT8doWvl70xEWSng1I/Livrable-2?node-id=0%3A1
 
